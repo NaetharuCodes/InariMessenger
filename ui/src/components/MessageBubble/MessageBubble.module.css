@@ -1,0 +1,25 @@
+.bubble {
+  padding: 16px;
+  margin: 8px;
+  border-radius: 8px;
+}
+
+.selfMessage {
+  background-color: rgb(121, 0, 111);
+}
+
+.otherMessage {
+  background-color: teal;
+}
+
+.container {
+  display: flex;
+}
+
+.flexSelf {
+  justify-content: flex-start;
+}
+
+.flexOther {
+  justify-content: flex-end;
+}
